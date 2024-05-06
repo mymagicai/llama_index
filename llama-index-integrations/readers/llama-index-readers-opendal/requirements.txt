@@ -1,1 +1,2 @@
-opendal
+opendal>=0.35.0
+
